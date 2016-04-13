@@ -10,9 +10,13 @@ import org.springframework.test.context.web.WebAppConfiguration;
 @SpringApplicationConfiguration(classes = QueensBeachApplication.class)
 @WebAppConfiguration
 public class QueensBeachApplicationTests {
-
 	@Test
 	public void contextLoads() {
+	}
+
+	@Test
+	public void testName() throws Exception {
+
 	}
 
 }
