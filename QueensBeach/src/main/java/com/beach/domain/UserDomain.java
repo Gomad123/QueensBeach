@@ -1,5 +1,6 @@
 package com.beach.domain;
 
+
 public class UserDomain {
 	
 	private long userId ;
