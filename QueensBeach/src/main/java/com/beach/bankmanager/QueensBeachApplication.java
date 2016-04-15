@@ -8,6 +8,6 @@ public class QueensBeachApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(QueensBeachApplication.class, args);
-		System.out.println("HELLO WORLD");
+		System.out.println("HELLO WORLD ttyryryr ");
 	}
 }
